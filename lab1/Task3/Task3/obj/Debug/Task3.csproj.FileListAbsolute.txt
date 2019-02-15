@@ -1,0 +1,14 @@
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Kamila Zeinolla\Documents\Visual Studio 2017\Projects\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Kamila Zeinolla\Desktop\pp2\pp2\lab1\Task3\Task3\obj\Debug\Task3.pdb
